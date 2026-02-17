@@ -25,7 +25,7 @@ A professional website audit skill for Claude Code that performs comprehensive c
 
 ```bash
 # 1. Clone or download this repo
-git clone https://github.com/YOUR-USERNAME/claude-website-qa-skill.git
+git clone https://github.com/iaguilar-lp/claude-website-qa-skill.git
 
 # 2. Copy skill to Claude directory
 mkdir -p ~/.claude/skills/website-qa-audit
@@ -325,8 +325,8 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 📚 Related
 
-Looking for more comprehensive audits including design consistency checks? Check out the [Website Design QA Skill](https://github.com/YOUR-USERNAME/claude-website-design-qa-skill) (coming soon).
+Looking for more comprehensive audits including design consistency checks? Check out the [Website Design QA Skill](https://github.com/iaguilar-lp/claude-website-design-qa-skill) (coming soon).
 
 ---
 
-**Questions or issues?** [Open an issue](https://github.com/YOUR-USERNAME/claude-website-qa-skill/issues) or reach out!
+**Questions or issues?** [Open an issue](https://github.com/iaguilar-lp/claude-website-qa-skill/issues) or reach out!
